@@ -932,7 +932,6 @@ PRODUCT_PACKAGES += \
     MotoSignatureApp \
     PowerOffAlarm \
     QtiTelephonyService \
-    datastatusnotification \
     WfdService \
     daxService \
     dpmserviceapp \
